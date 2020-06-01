@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T04:14:09.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37" etag="Y9SlILqA0PQa3OeqAPL-" version="13.1.11" type="github"><diagram id="E5oJxDQJkD0ybLB3QqsX" name="Page-1">7VlLc+I4EP41rto9QPkBDnvkEWYOSVW2qKmZOVGyJduayBaR5QD767clyy8MhGSS3a0dOIDV6m5J/X3dkoXlzdPdJ4E2yT3HhFmujXeWt7Bcd+KM4VsJ9qVgZDulIBYUl6KWYEX/IkZoG2lBMck7ipJzJummKwx5lpFQdmRICL7tqkWcdUfdoJj0BKsQsb70K8UyMcsa2438M6FxUo3s2KYnRZWyEeQJwnzbEnm3ljcXnMvyKd3NCVOxq+JS2i1P9NYTEySTlxjEX3485Q7+snqKA2f6J9oNvj4NjJdnxAqzYDNZua8ikG9pylAGrVm9BBsaDAWEzVD4GAteZHjOGRfawrPtm+VyqfSl4I+k1TNyb25mM+iJKGOVPOPaeSwQprCWA3HEG5H2rT4gR4zGGchEGfxZyBlDm5wGet62Hh0JaRhl17OpUHSVxCxt2Z+NiQsRkuxOBtypYQT6E54SKfagYgzGvkHeUH9imtuGR06lkrQ5VDEGGe7GtesGXngwCL8C7VEP7TlEVy3HtT8XQQ96WLsKbSJTGGbhtKIeghGBcM1UhCiky9R0pBRj1uMKRnlCcAeHFqZ+OCFBdMAKkGNEJlF4mmothqzMpJ2qXcLuaJQ3KKRZfEcieZQJ3qVwn86gPgdeAtkbfxDGTj+lF9P7C6DtwlLFtp8Zl1Ngm1BJVhB9NeYWtgeQaQBrKrx72I0Xt5t5437mjY5g8mF557j9xLt/+LUxOVIN/1lM/F78CYat3zS5kAmPeYbYbSM9iFSjc8f5xkD2g0i5N+UHFZJ3ASU7Kr+1nr8rV0N3bJqLnXGtG/uqkcGCldXAHtr2pJKUtr5fCxpr3eqYPxBBIXCKHC2U1YrP724QIF6IkJyJpAkk7LYxeQM9BGFI0ufuPI7BbUwfONUbVrXLjru8qqtt5aKcl7FqSDMVAu1bahulkJ8epybswTgNB0uPDSPrNf4ESW+OnM98Js0u16Gv/1Soo+QshfVSyPkp9NqbHXxruAFajGEb7HcEXGDFi0M5LySjqrwcdqihBxFKKduXnTA4Sje60/NG8CuphCJFi1QlOAl6/dpmfswyIeyZqNIFnRmBRb/J9GIbJChir9BPaSh4ziMV+j2CQnXaNkdZPsgh7aI6cFVVHph6rWIXoJzoMFdKYVnaVZ+Ig99cZ1K79Ozm8eb3BnJ4is3veW5o5HJdnJR/R6N6youCIBEk6nhIpFRvXlNFfHeJyfMwhw0l5IIMM8h+d7ng24xxhCGVlivTtX5gBXByHXGx1qUUDnT5Wh9LlmpBjeK8fI0rNSshKK6BgUOUd6fbLjmVdB3Agf6xo3VNkWuK1OSuSAX9hmvWrWtNRta0vB4Q8N3S0Rwt0wFoig5TJBDXpLkmzTVpukkzP5Yy6n2nlpYb1Eu51FM8cl6/U1cD1hvvKASBvRA1N0bmDAjOxzNrvKjHPPIyZO4bjXFzy/fyS5J/9i0JjviOM/ZKZz95NHZHw5HfObQOXHD/R9cPj6KcSOvwfeodTq/+9XLxwy4X60vC/8zlYv9VpSkJ13vFV1+mnCgT/969otfD99v/7wrrfHF2nG7S+f2ke6c7LGg2/wyV9bj5e827/Rs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-01T10:21:57.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37" etag="CoB3bYIsfcMm9mll8ZAm" version="13.1.11" type="github">
+  <diagram id="E5oJxDQJkD0ybLB3QqsX" name="Page-1">
+    <mxGraphModel dx="1833" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gUjqs1dUSqgb1AQax-Wq-1" value="" style="swimlane;shadow=0;labelBackgroundColor=#007FFF;strokeColor=#4277BB;fillColor=none;gradientColor=none;fontColor=#000000;align=right;collapsible=0;startSize=0;strokeWidth=2;swimlaneFillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="80" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gUjqs1dUSqgb1AQax-Wq-4" value="Content Hub" style="text;html=1;align=center;verticalAlign=middle;shadow=0;dashed=0;strokeColor=#6c8ebf;fillColor=#dae8fc;labelBackgroundColor=none;fontStyle=1;fontSize=12;spacingLeft=0;strokeWidth=3;" parent="gUjqs1dUSqgb1AQax-Wq-1" vertex="1">
+          <mxGeometry width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gUjqs1dUSqgb1AQax-Wq-11" value="DAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gUjqs1dUSqgb1AQax-Wq-1" vertex="1">
+          <mxGeometry x="20" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gUjqs1dUSqgb1AQax-Wq-12" value="CMP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gUjqs1dUSqgb1AQax-Wq-1" vertex="1">
+          <mxGeometry x="20" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="byqQUmWDojLQDnQywQ17-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://connectoricons-prod.azureedge.net/marketingcontenthub/icon_1.0.1309.1901.png;" vertex="1" parent="gUjqs1dUSqgb1AQax-Wq-1">
+          <mxGeometry x="120" y="35" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="byqQUmWDojLQDnQywQ17-3" value="&lt;a href=&quot;https://dev.sitecore.net/Downloads/Sitecore_Plugin_for_Stylelabs_DAM/20/Sitecore_Connect_for_Sitecore_DAM_200.aspx&quot; target=&quot;_blank&quot; style=&quot;font-family: &amp;#34;titillium web&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 10px ; margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; color: rgb(218 , 30 , 37)&quot;&gt;Sitecore Connect™ for Sitecore DAM&lt;/a&gt;&lt;br style=&quot;color: rgb(218 , 30 , 37) ; font-family: &amp;#34;titillium web&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 10px&quot;&gt;&lt;a href=&quot;https://dev.sitecore.net/Downloads/Sitecore_Plugin_for_Stylelabs_DAM/20/Sitecore_Connect_for_Sitecore_DAM_200.aspx&quot; target=&quot;_blank&quot; style=&quot;font-family: &amp;#34;titillium web&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 10px ; margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; color: rgb(218 , 30 , 37)&quot;&gt;Sitecore Connect™ for Sitecore C&lt;/a&gt;&lt;span style=&quot;color: rgb(218 , 30 , 37) ; font-family: &amp;#34;titillium web&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 10px&quot;&gt;MP&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gUjqs1dUSqgb1AQax-Wq-6" target="gUjqs1dUSqgb1AQax-Wq-1">
+          <mxGeometry x="-0.0345" y="30" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUjqs1dUSqgb1AQax-Wq-6" value="" style="swimlane;shadow=0;labelBackgroundColor=#007FFF;strokeColor=#4277BB;fillColor=none;gradientColor=none;fontColor=#000000;align=right;collapsible=0;startSize=0;strokeWidth=2;swimlaneFillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="80" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gUjqs1dUSqgb1AQax-Wq-7" value="Sitecore" style="text;html=1;align=center;verticalAlign=middle;shadow=0;dashed=0;strokeColor=#6c8ebf;fillColor=#dae8fc;labelBackgroundColor=none;fontStyle=1;fontSize=12;spacingLeft=0;strokeWidth=3;" parent="gUjqs1dUSqgb1AQax-Wq-6" vertex="1">
+          <mxGeometry width="270" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gUjqs1dUSqgb1AQax-Wq-13" value="XP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gUjqs1dUSqgb1AQax-Wq-6" vertex="1">
+          <mxGeometry x="220" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="byqQUmWDojLQDnQywQ17-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.iconscout.com/icon/free/png-512/sitecore-2-569212.png;" vertex="1" parent="gUjqs1dUSqgb1AQax-Wq-6">
+          <mxGeometry x="112.5" y="35" width="55" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
